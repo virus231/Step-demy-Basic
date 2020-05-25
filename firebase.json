@@ -1,0 +1,9 @@
+{
+    "hosting": {
+      "site": "step-demy-basic",
+      "public": "dist"
+    },
+    "database": {
+      "rules": "database.rules.json"
+    }
+  }
