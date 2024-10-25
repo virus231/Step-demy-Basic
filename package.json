@@ -16,7 +16,7 @@
     "firebase": "^7.14.2",
     "hooper": "^0.3.4",
     "v-click-outside": "^3.0.1",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-dynamic-star-rating": "^1.0.8",
     "vue-router": "^3.1.6",
     "vue-video-player": "^5.0.2",
