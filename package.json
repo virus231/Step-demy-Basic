@@ -13,7 +13,7 @@
     "@mdi/js": "^4.9.95",
     "click-outside": "^2.0.2",
     "core-js": "^3.6.5",
-    "firebase": "^7.14.2",
+    "firebase": "^10.9.0",
     "hooper": "^0.3.4",
     "v-click-outside": "^3.0.1",
     "vue": "^2.6.11",
